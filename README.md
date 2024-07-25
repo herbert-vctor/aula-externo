@@ -22,4 +22,4 @@ Nesse repositório você ira encontrar uma das coisas que aprendi no módulo de 
 Como o próprio nome do repositório já diz, eu consegui fazer uma estilização externa, ou seja, dividi as responsabilidades entre linguagem de marcação (HTML) e linguagem de estilização (CSS).
 
 ## Dificuldades 
-Talvez por ser CSS básico ou porque o método de ensino dos gêmeos seja bom; mas eu não tive dificuldades em entender as fucionalidades das propriedades aprendidas nesse módulo.
+Talvez por ser CSS básico ou porque o método de ensino dos gêmeos seja bom; mas eu não tive dificuldades em entender as fucionalidades das propriedades aprendidas nesta aula.
